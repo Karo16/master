@@ -1,4 +1,4 @@
 The second file aaa
-bbbb bbbb
+bbbb ---
 ddd
 hhhh 
